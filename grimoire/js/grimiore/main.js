@@ -72,4 +72,4 @@ const MakeEvilSpellBook = () => {
 const goodBook = MakeGoodSpellBook(spells)
 const evilBook = MakeEvilSpellBook(spells)
 
-const DisplaySpellBooks()
+// const DisplaySpellBooks()
